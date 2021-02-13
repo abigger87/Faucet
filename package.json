@@ -12,6 +12,7 @@
     "verify": "hardhat verify"
   },
   "dependencies": {
+    "@chainlink/contracts": "^0.1.6",
     "@openzeppelin/contracts": "^3.3.0"
   },
   "devDependencies": {
